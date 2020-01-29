@@ -11,7 +11,7 @@
 
 ## Questão 2: 
 - Versão inicial feita
--Necessita dos principais gêneros
+
 
 ## Questão 3:
 -Pendente
